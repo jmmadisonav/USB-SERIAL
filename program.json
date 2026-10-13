@@ -1,0 +1,10 @@
+{
+  "id": "usb_serial",
+  "name": "usb_serial",
+  "description": "description",
+  "disabled": false,
+  "provider": "python",
+  "scope": "",
+  "script": "main.py",
+  "envvars": {}
+}
