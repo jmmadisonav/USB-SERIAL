@@ -1,8 +1,7 @@
 # USB-SERIAL
 
 When you plug an FTDI USB-to-serial adapter into a MUSE controller, MUSE adds
-the `USB-SERIAL` device but leaves it offline. This program lets you bring it
-online.
+the `USB-SERIAL` device but leaves it offline. This program shows how you can bring it online.
 
 ## Enable USB-SERIAL
 
